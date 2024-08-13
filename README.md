@@ -1,4 +1,4 @@
-### README: Squid AI CRM Tool
+# Squid AI CRM Tool
 
 ---
 
