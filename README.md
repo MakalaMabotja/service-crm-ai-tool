@@ -1,7 +1,5 @@
 # Squid AI CRM Tool
 
----
-
 ## Overview
 
 **Squid AI CRM** is a customer relationship management tool built on top of Squid AI's template. It leverages AI to enhance client interactions, automate workflows, and provide actionable insights into customer behavior. This tool is designed to help businesses manage their client relationships efficiently, increase customer retention, and optimize sales processes.
