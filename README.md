@@ -129,8 +129,6 @@ Squid AI CRM is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any issues or inquiries, please contact us at support@squidai.com.
-
----
+For any issues or inquiries, please contact us at makalamabotjasfp@gmail.com
 
 This README provides essential information to get started with Squid AI CRM. For more detailed documentation, refer to the [official documentation](https://docs.squid.cloud/docs/getting-started/dive-in/).
